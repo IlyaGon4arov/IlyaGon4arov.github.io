@@ -8,10 +8,12 @@ body {
     font-weight: 400;
     font-size: 15px;
     font-style: normal;
+    color: var(-tg-theme-text-color);
+    background: var(-tg-theme-bg-color);
 }
 
 .container {
-    max-width: 440px;
+    max-width: 380px;
     display: grid;
 }
 
@@ -22,7 +24,7 @@ body {
 
 .item div, .header div {
     display: inline-block;
-    width: 107px;
+    width: 92px;
 }
 
 .item {
