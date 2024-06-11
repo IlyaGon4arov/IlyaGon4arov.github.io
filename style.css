@@ -16,6 +16,7 @@ body {
     max-width: 100%;
     display: grid;
     padding-left: 3px;
+    padding-right: 3px;
 }
 
 
